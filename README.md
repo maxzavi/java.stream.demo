@@ -1,4 +1,4 @@
-## Using stream ans parallel
+## Using stream and parallel
 
 Stream 
 Compare stream.forEach whit and whithout, compare console output
