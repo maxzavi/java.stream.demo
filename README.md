@@ -18,3 +18,10 @@ java -cp bin App
 ```
 
 Create docker image, use base *eclipse-temurin:17-jre-alpine*
+
+
+´´´cmd
+docker build -t mzavaletav/java.demo.stream .
+docker push mzavaletav/java.demo.stream
+´´´
+
