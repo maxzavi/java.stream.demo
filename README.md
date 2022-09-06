@@ -17,3 +17,4 @@ Run whit:
 java -cp bin App
 ```
 
+Create docker image, use base *eclipse-temurin:17-jre-alpine*
